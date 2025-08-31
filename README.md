@@ -25,18 +25,6 @@
 
 ---
 
-### 📊 &nbsp;GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbdAllahGomaa-AG&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdAllahGomaa-AG&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdAllahGomaa-AG&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 🌐 &nbsp;Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/abdallahgomaa-ag/" target="blank">
